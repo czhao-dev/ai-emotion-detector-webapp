@@ -162,3 +162,7 @@ Follow provider-specific instructions for deployment.
 
 - IBM Watson NLP API documentation
 - Flask documentation
+
+## License
+This project is provided as part of an academic course and is intended for educational purposes.
+
