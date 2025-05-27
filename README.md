@@ -7,8 +7,6 @@ This project is a final assignment for an AI engineering course. You will assume
 
 The project is divided into 8 main tasks, each contributing to a final score of 16 points. These tasks involve setting up a local development environment, creating and formatting the application, performing tests, deploying the app, and adhering to good software engineering practices.
 
----
-
 ## Features
 
 - Accepts textual input and analyzes the emotional tone.
@@ -19,8 +17,6 @@ The project is divided into 8 main tasks, each contributing to a final score of 
 - Error handling and user-friendly messages.
 - Easily deployable web app.
 
----
-
 ## Technologies Used
 
 - Python 3.8+
@@ -29,8 +25,6 @@ The project is divided into 8 main tasks, each contributing to a final score of 
 - HTML/CSS (for frontend)
 - Pytest or Unittest (for unit testing)
 - pylint or flake8 (for code analysis)
-
----
 
 ## Project Structure
 
@@ -47,8 +41,6 @@ emotion-detector/
 ├── .pylintrc or .flake8
 └── README.md
 ```
-
----
 
 ## Setup Instructions
 
@@ -71,8 +63,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ## Tasks Overview
 
@@ -108,8 +98,6 @@ Handle common errors like empty inputs, network/API issues, or invalid responses
 
 Run a tool like `pylint` or `flake8` and aim for clean, well-documented, and readable code.
 
----
-
 ## Running the Application
 
 ```bash
@@ -118,7 +106,6 @@ flask run
 
 Visit `http://localhost:5000` to access the web interface.
 
----
 
 ## Testing
 
@@ -134,7 +121,6 @@ or
 python -m unittest discover
 ```
 
----
 
 ## Code Analysis
 
@@ -150,7 +136,6 @@ or
 flake8 .
 ```
 
----
 
 ## Error Handling
 
@@ -160,7 +145,6 @@ The application includes robust error handling for:
 - API call failures
 - Unexpected server errors
 
----
 
 ## Deployment
 
@@ -173,8 +157,6 @@ This project can be deployed on any platform that supports Flask, such as:
 
 Follow provider-specific instructions for deployment.
 
-
----
 
 ## Acknowledgments
 
