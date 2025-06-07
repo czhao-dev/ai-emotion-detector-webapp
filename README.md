@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a final assignment for an AI engineering course. You will assume the role of a software engineer tasked with developing an AI-based web application capable of detecting emotions from textual input. The application leverages IBM Watson's NLP capabilities and is built using Python and Flask.
+This project is a final assignment for an AI engineering course. The task is to develope an AI-based web application capable of detecting emotions from textual input. The application leverages IBM Watson's NLP capabilities and is built using Python and Flask.
 
 The project is divided into 8 main tasks, each contributing to a final score of 16 points. These tasks involve setting up a local development environment, creating and formatting the application, performing tests, deploying the app, and adhering to good software engineering practices.
 
